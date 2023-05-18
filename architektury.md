@@ -7,7 +7,7 @@ class: invert
 
 # Przykładowe architektury komputera
 
-Autor: Alan Klas
+Alan Klas & Filip Młodzik
 
 ---
 

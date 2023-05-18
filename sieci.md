@@ -7,7 +7,7 @@ class: invert
 
 # Ustawienia sieciowe danego komputera i jego lokalizacji w sieci
 
-Alan Klas, Filip Młodzik
+Alan Klas & Filip Młodzik
 
 ---
 
